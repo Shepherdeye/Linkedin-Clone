@@ -1,2 +1,2 @@
 
-<h3>LinkedIn Clone App</h3>
+<h3>Linkedin Clone App</h3>
